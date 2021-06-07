@@ -1,1 +1,1 @@
-# javaChat
+# Chat Application on JavaFX
